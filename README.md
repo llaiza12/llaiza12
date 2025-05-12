@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi there! 👋 I'm Laiza Nicole
 
-<!--
-**llaiza12/llaiza12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a passionate mobile and web app developer with a love for UX design and everything cute!
 
-Here are some ideas to get you started:
+# 💻 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ✨ Currently Building: Personal Project using Flutter & Dart
+- 🎓 Education: B.S. in Computer Science + Certificate in Data Science
+- 🌱 Interests: Full-Stack Development, Mobile App Dev, UI/UX Design
+- ❤️ Fun fact: Gamer and Musician!
+
+# GitHub Stats
+![Laiza's GitHub Stats](https://github-readme-stats.vercel.app/api?username=llaiza12&show_icons=true&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=llaiza12&layout=compact&theme=dracula)
