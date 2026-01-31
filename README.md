@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm a passionate mobile and web app developer with
 
 - 💻 **Developer**: I specialize in frontend development, mobile apps, UI/UX design
 - 🎓 **Education**: B.S. in Computer Science + Certificate in Data Science
-- ✨ **Currently Building**: Personal Project using Flutter & Dart
+- ✨ **Currently Building**: PyroFlow, A Wildfire Simulation App
 - 🎵 **Fun fact**: Gamer and Musician!
 
 ## 📈 GitHub Stats
